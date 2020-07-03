@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <!-- <link>https://archive.org/details/SciFi_Horror</link> -->
+    <!-- <title>Internet Archive - Collection: SciFi_Horror</title> -->
+    <!-- <description>The most recent additions to the Internet Archive collections.  This RSS feed is generated dynamically</description> -->
+    <!-- <webMaster>info@archive.org (Info Box)</webMaster> -->
+    <!-- <pubDate>Fri, 03 Jul 2020 11:06:13 GMT</pubDate> -->
+    <!-- <image>
+      <url>https://archive.org/images/glogo.png</url>
+      <title>Internet Archive - Collection: SciFi_Horror</title>
+      <link>https://archive.org/details/SciFi_Horror</link>
+    </image> -->
+    <item>
+      <!-- <title>BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: ATOM AGE VAMPIRE &amp; HORRORS OF SPIDER ISLAND</title> -->
+      <media:title>BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: ATOM AGE VAMPIRE &amp; HORRORS OF SPIDER ISLAND</media:title>
+      <media:description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=ATOMAGESPIDERISLAND&amp;mediatype=movies&amp;collection=SciFi_Horror"/&gt;&lt;p&gt;A COMPLETE DVD. Features a custom menu with poster art from one of the movies overlayed with drive-in style audio. Burning the DVD is easy: Download the zipped folder. Copy the VIDEO_TS FOLDER. Grab a blank DVD and burn the VIDEO TS folder onto it, that's the easiest way....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/SciFi_Horror.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, DVD Info, DVD Info Backup, Item Tile, MP3, MPEG2, Metadata, Ogg Video, PNG, Thumbnail, ZIP, h.264&lt;/p&gt;</media:description>
+      <!-- <link>https://archive.org/details/ATOMAGESPIDERISLAND</link> -->
+      <guid>https://archive.org/details/ATOMAGESPIDERISLAND</guid>
+	  <pubDate>2017-09-02T23:07:45-04:00</pubDate>
+      <!-- <pubDate>Sun, 03 Sep 2017 03:07:45 GMT</pubDate> -->
+      <!-- <creativeCommons:license>http://creativecommons.org/publicdomain/mark/1.0/</creativeCommons:license> -->
+      <media:category>movies/SciFi_Horror</media:category>
+      <media:thumbnail url="https://archive.org/download/ATOMAGESPIDERISLAND/format=Thumbnail" />
+      <media:content url="https://archive.org/download/ATOMAGESPIDERISLAND/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" duration="446"></media:content>
+      <!-- <enclosure url="https://archive.org/download/ATOMAGESPIDERISLAND/format=h.264" type="video/h264" length="111111"/> -->
+      <media:keywords>horror, scifi, drive-in, DVD, feature films</media:keywords>
+    </item>
+    <item>
+      <media:title>BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: WAR OF THE SATELLITES &amp; VOYAGE TO THE PREHISTORIC PLANET</media:title>
+      <media:description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=WARSATELLITESVOYAGEPREHISTORICPLANET&amp;mediatype=movies&amp;collection=SciFi_Horror"/&gt;&lt;p&gt;A COMPLETE DVD. Features a custom menu with poster art from one of the movies overlayed with drive-in style audio.  Making your DVD is real easy: Download the zipped folder, open it, and extract the VIDEO_TS folder  and burn to disc, that's the easiest way....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/SciFi_Horror.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, DVD Info, DVD Info Backup, Item Tile, MP3, MPEG2, Metadata, Ogg Video, PNG, Thumbnail, ZIP, h.264&lt;/p&gt;</media:description>
+      <guid>https://archive.org/details/WARSATELLITESVOYAGEPREHISTORICPLANET</guid>
+      <media:category>movies/SciFi_Horror</media:category>
+      <media:thumbnail url="https://archive.org/download/WARSATELLITESVOYAGEPREHISTORICPLANET/format=Thumbnail" />
+      <media:content url="https://archive.org/download/WARSATELLITESVOYAGEPREHISTORICPLANET/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:keywords>sci-fi, Corman, drive-in, DVD, feature films</media:keywords>
+    </item>
+    <item>
+      <media:title>BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: WEREWOLF OF WASHINGTON &amp; GRAVE OF THE VAMPIRE</media:title>
+      <media:description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=WEREWOLFWASHINGTONGRAVEVAMPIRE&amp;mediatype=movies&amp;collection=SciFi_Horror"/&gt;&lt;p&gt;A COMPLETE DVD. Features a custom menu with poster art and drive-in style audio. Burning this to disc is real easy: Download the zipped folder, open it, and extract the VIDEO TS folder. Grab a blank DVD and burn the VIDEO TS folder onto it, that's the easiest way.  I've also uploaded the files outs....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/SciFi_Horror.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, DVD Info, DVD Info Backup, Item Tile, MP3, MPEG2, Metadata, Ogg Video, PNG, Thumbnail, ZIP, h.264&lt;/p&gt;</media:description>
+      <guid>https://archive.org/details/WEREWOLFWASHINGTONGRAVEVAMPIRE</guid>
+      <media:category>movies/SciFi_Horror</media:category>
+      <media:thumbnail url="https://archive.org/download/WEREWOLFWASHINGTONGRAVEVAMPIRE/format=Thumbnail" />
+      <media:content url="https://archive.org/download/WEREWOLFWASHINGTONGRAVEVAMPIRE/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:keywords>horror, werewolf, vampire, drive-in, DVD, feature films</media:keywords>
+    </item>
+    <item>
+      <media:title>BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: THE WASP WOMAN &amp; THE LAST WOMAN ON EARTH</media:title>
+      <media:description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=WASPWOMANLASTWOMANEARTH&amp;mediatype=movies&amp;collection=SciFi_Horror"/&gt;&lt;p&gt;A COMPLETE DVD. Features a custom menu with either poster art or a still shot from one of the movies with drive-in style audio. Burning this is beyond easy: Download the zipped folder, open it, and extract the VIDEO TS folder....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/SciFi_Horror.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, DVD Info, DVD Info Backup, Item Tile, MP3, MPEG2, Metadata, Ogg Video, PNG, Thumbnail, ZIP, h.264&lt;/p&gt;</media:description>
+      <guid>https://archive.org/details/WASPWOMANLASTWOMANEARTH</guid>
+      <media:category>movies/SciFi_Horror</media:category>
+      <media:thumbnail url="https://archive.org/download/WASPWOMANLASTWOMANEARTH/format=Thumbnail" />
+      <media:content url="https://archive.org/download/WASPWOMANLASTWOMANEARTH/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:keywords>horror, scifi, Corman, drive-in, DVD, feature films</media:keywords>
+    </item>
+    <item>
+      <media:title>BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: THE TERROR &amp; DEMENTIA 13</media:title>
+      <media:description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=TERRORDEMENTIA13&amp;mediatype=movies&amp;collection=SciFi_Horror"/&gt;&lt;p&gt;A COMPLETE DVD. Features a custom menu with either poster art or a still photo from one of the movies. Real easy to burn: Download the zipped folder, open it, extract the VIDEO_TS folder. Grab a blank disc and burn the VIDEO TS folder onto it....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/SciFi_Horror.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, DVD Info, DVD Info Backup, Item Tile, MP3, MPEG2, Metadata, Ogg Video, PNG, Thumbnail, ZIP, h.264&lt;/p&gt;</media:description>
+      <guid>https://archive.org/details/TERRORDEMENTIA13</guid>
+      <media:category>movies/SciFi_Horror</media:category>
+      <media:thumbnail url="https://archive.org/download/TERRORDEMENTIA13/format=Thumbnail" />
+      <media:content url="https://archive.org/download/TERRORDEMENTIA13/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:keywords>HORROR, CORMAN, DRIVE-IN, FEATURE FILMS, Corman, drive-in, feature films</media:keywords>
+    </item>
+    <item>
+      <media:title>BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: TEENAGE ZOMBIES &amp; THE SCREAMING SKULL</media:title>
+      <media:description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=TEENAGEZOMBIESSCREAMINGSKULL&amp;mediatype=movies&amp;collection=SciFi_Horror"/&gt;&lt;p&gt;A COMPLETE DVD. Features a custom menu with either poster art or a stills photo from one of the movies overlayed with drive-in style audio. Burning the disc is real easy: Download the zipped folder, open it and extract the VIDEO TS folder....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/SciFi_Horror.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, DVD Info, DVD Info Backup, Item Tile, MP3, MPEG2, Metadata, Ogg Video, PNG, Thumbnail, ZIP, h.264&lt;/p&gt;</media:description>
+      <guid>https://archive.org/details/TEENAGEZOMBIESSCREAMINGSKULL</guid>
+      <media:category>movies/SciFi_Horror</media:category>
+      <media:thumbnail url="https://archive.org/download/TEENAGEZOMBIESSCREAMINGSKULL/format=Thumbnail" />
+      <media:content url="https://archive.org/download/TEENAGEZOMBIESSCREAMINGSKULL/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:keywords>horror, drive-in, feature films</media:keywords>
+    </item>
+    <item>
+      <media:title>BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: THE BEACH GIRLS AND THE MONSTER &amp; SPIDER BABY</media:title>
+      <media:description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=SPIDERBABYBEACHGIRLSMONSTER&amp;mediatype=movies&amp;collection=SciFi_Horror"/&gt;&lt;p&gt;A COMPLETE DVD. Features a custom menu with either poster art or a still photo from one of the movies. Burning this DVD is beyond easy: Download the zipped folder, open it, and extract the VIDEO TS folder....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/SciFi_Horror.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, DVD Info, DVD Info Backup, Item Tile, MP3, MPEG2, Metadata, Ogg Video, PNG, Thumbnail, ZIP, h.264&lt;/p&gt;</media:description>
+      <guid>https://archive.org/details/SPIDERBABYBEACHGIRLSMONSTER</guid>
+      <media:category>movies/SciFi_Horror</media:category>
+      <media:thumbnail url="https://archive.org/download/SPIDERBABYBEACHGIRLSMONSTER/format=Thumbnail" />
+      <media:content url="https://archive.org/download/SPIDERBABYBEACHGIRLSMONSTER/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:keywords>horror, drive-in, feature films</media:keywords>
+    </item>
+    <item>
+      <media:title>BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: SNOW CREATURE &amp; THE PHANTOM PLANET</media:title>
+      <media:description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=SNOWCREATUREPHANTOMPLANET&amp;mediatype=movies&amp;collection=SciFi_Horror"/&gt;&lt;p&gt;A COMPLETE DVD. Features a custom menu with either poster art or a still photo from one of the movies and drive-in style audio. Burning this DVD is really easy: Download the zipped folder, open it, and extract the VIDEO TS folder....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/SciFi_Horror.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, DVD Info, DVD Info Backup, Item Tile, MP3, MPEG2, Metadata, Ogg Video, PNG, Thumbnail, ZIP, h.264&lt;/p&gt;</media:description>
+      <guid>https://archive.org/details/SNOWCREATUREPHANTOMPLANET</guid>
+      <media:category>movies/SciFi_Horror</media:category>
+      <media:thumbnail url="https://archive.org/download/SNOWCREATUREPHANTOMPLANET/format=Thumbnail" />
+      <media:content url="https://archive.org/download/SNOWCREATUREPHANTOMPLANET/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:keywords>sci-fi, horror, drive-in, feature films</media:keywords>
+    </item>
+    <item>
+      <media:title>BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: MESA OF LOST WOMEN &amp; THE AMAZING TRANSPARENT MAN</media:title>
+      <media:description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=MESATRANSPARENMAN&amp;mediatype=movies&amp;collection=SciFi_Horror"/&gt;&lt;p&gt;A COMPLETE DVD: Features a custom menu with either poster art or still photo from one of the movies. Burning directions are real easy. Download the zipped folder, open it, extract the VIDEO TS folder and burn to disc, that's the easiest way....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/SciFi_Horror.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, DVD Info, DVD Info Backup, Item Tile, MP3, MPEG2, Metadata, Ogg Video, PNG, Thumbnail, h.264&lt;/p&gt;</media:description>
+      <guid>https://archive.org/details/MESATRANSPARENMAN</guid>
+      <media:category>movies/SciFi_Horror</media:category>
+      <media:thumbnail url="https://archive.org/download/MESATRANSPARENMAN/format=Thumbnail" />
+      <media:content url="https://archive.org/download/MESATRANSPARENMAN/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:keywords>horror, sci-fi, drive-in, feature films</media:keywords>
+    </item>
+    <item>
+      <media:title>BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: NIGHT OF THE BLOOD BEAST &amp; THE GIANT LEECHES</media:title>
+      <media:description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=BLOODBEASTGIANTLEECHES&amp;mediatype=movies&amp;collection=SciFi_Horror"/&gt;&lt;p&gt;A COMPLETE DVD. Features a custom menu with either poster art or still photo from one of the movies, and drive-in style audio. Directions to burn are super easy. Download zipped folder, open it and extract the VIDEO TS folder....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/SciFi_Horror.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, DVD Info, DVD Info Backup, Item Tile, MP3, MPEG2, Metadata, Ogg Video, PNG, Thumbnail, ZIP, h.264&lt;/p&gt;</media:description>
+      <guid>https://archive.org/details/BLOODBEASTGIANTLEECHES</guid>
+      <media:category>movies/SciFi_Horror</media:category>
+      <media:thumbnail url="https://archive.org/download/BLOODBEASTGIANTLEECHES/format=Thumbnail" />
+      <media:content url="https://archive.org/download/BLOODBEASTGIANTLEECHES/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:keywords>horror, sci-fi, Corman, drive-in, feature films</media:keywords>
+    </item>
+    <item>
+      <media:title>BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: MANOS THE HANDS OF FATE &amp; BLOODY PIT OF HORROR</media:title>
+      <media:description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=MANOSBLOODYPITHORROR&amp;mediatype=movies&amp;collection=SciFi_Horror"/&gt;&lt;p&gt;A COMPLETE DVD. Features custom menu either poster art or still shot from one of the movies overlaid with an audio track. Burning process is beyond easy: Download zipped folder, open it, extract the VIDEO_TS folder and burn to disc, that's the easiest way....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/SciFi_Horror.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, DVD Info, DVD Info Backup, Item Tile, MP3, MPEG2, Metadata, Ogg Video, PNG, Thumbnail, ZIP, h.264&lt;/p&gt;</media:description>
+      <guid>https://archive.org/details/MANOSBLOODYPITHORROR</guid>
+      <media:category>movies/SciFi_Horror</media:category>
+      <media:thumbnail url="https://archive.org/download/MANOSBLOODYPITHORROR/format=Thumbnail" />
+      <media:content url="https://archive.org/download/MANOSBLOODYPITHORROR/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:keywords>horror, drive-in, feature films</media:keywords>
+    </item>
+    <item>
+      <media:title>BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: BLOODLUST &amp; CARNIVAL OF SOULS</media:title>
+      <media:description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=BLOODLUSCARNIVALSOULS&amp;mediatype=movies&amp;collection=SciFi_Horror"/&gt;&lt;p&gt;A COMPLETE DVD.Features a menu with either poster art or still photo from one of the movies and audio. Easy to burn instructions: Download zipped folder, open it, extract the VIDEO_TS folder and burn to disc, that's the easiest way....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/SciFi_Horror.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, DVD Info, DVD Info Backup, Item Tile, MP3, MPEG2, Metadata, Ogg Video, PNG, Thumbnail, ZIP, h.264&lt;/p&gt;</media:description>
+      <guid>https://archive.org/details/BLOODLUSCARNIVALSOULS</guid>
+      <media:category>movies/SciFi_Horror</media:category>
+      <media:thumbnail url="https://archive.org/download/BLOODLUSCARNIVALSOULS/format=Thumbnail" />
+      <media:content url="https://archive.org/download/BLOODLUSCARNIVALSOULS/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:keywords>horror, drive-in, feature films</media:keywords>
+    </item>
+    <item>
+      <media:title>BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: THE BEAST FROM HAUNTED CAVE &amp; A BUCKET OF BLOOD</media:title>
+      <media:description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=BEASTHAUNTEDCAVEBUCKETBLOOD&amp;mediatype=movies&amp;collection=SciFi_Horror"/&gt;&lt;p&gt;A COMPLETE DVD. Features custom menu with poster art or still photo overlayed with a drive-in style audio. Burning is real easy. Just download the zipped folder, open it and extract the VIDEO TS folder....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/SciFi_Horror.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, DVD Info, DVD Info Backup, Item Tile, MP3, MPEG2, Metadata, Ogg Video, PNG, Thumbnail, ZIP, h.264&lt;/p&gt;</media:description>
+      <guid>https://archive.org/details/BEASTHAUNTEDCAVEBUCKETBLOOD</guid>
+      <media:category>movies/SciFi_Horror</media:category>
+      <media:thumbnail url="https://archive.org/download/BEASTHAUNTEDCAVEBUCKETBLOOD/format=Thumbnail" />
+      <!-- <media:content url="https://archive.org/download/BEASTHAUNTEDCAVEBUCKETBLOOD/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" /> -->
+      <media:keywords>horror, Corman, drive-in, feature films</media:keywords>
+    </item>
+    <item>
+      <media:title>BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: BATTLE BEYOND THE SUN &amp; VOYAGE TO THE PLANET OF PREHISTORIC WOMEN</media:title>
+      <media:description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=BATTLESUNVOYAGEPREHISTORICWOMEN&amp;mediatype=movies&amp;collection=SciFi_Horror"/&gt;&lt;p&gt;A COMPLETE DVD. To burn, download the zipped folder, extract the VIDEO TS folder, and burn onto a blank disc. Menu features either a still or poster art from one of the movies and audio derived from previous projects....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/SciFi_Horror.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, DVD Info, DVD Info Backup, Item Tile, MP3, MPEG2, Metadata, Ogg Video, PNG, Thumbnail, ZIP, h.264&lt;/p&gt;</media:description>
+      <guid>https://archive.org/details/BATTLESUNVOYAGEPREHISTORICWOMEN</guid>
+      <media:category>movies/SciFi_Horror</media:category>
+      <media:thumbnail url="https://archive.org/download/BATTLESUNVOYAGEPREHISTORICWOMEN/format=Thumbnail" />
+      <media:content url="https://archive.org/download/BATTLESUNVOYAGEPREHISTORICWOMEN/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:keywords>sci-fi, drive-in, Russian, Corman, feature films</media:keywords>
+    </item>
+    <item>
+      <media:title>BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: CREATURE FROM THE HAUNTED SEA &amp; LITTLE SHOP OF HORRORS</media:title>
+      <media:description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=DRIVEINSHOWCREATUREHAUNTEDSEALITTLESHOP&amp;mediatype=movies&amp;collection=SciFi_Horror"/&gt;&lt;p&gt;COMPLETE DVD. Contains the menu with poster art and drive in style audio, the opening previews, two movies, the intermission in between, and the goodnight clip. To make your dvd, download the zipped folder, open it extract the VIDEO_TS folder, then burn the VIDEO TS folder on a disc and you're done....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/SciFi_Horror.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, DVD Info, DVD Info Backup, Item Tile, MP3, MPEG2, Metadata, Ogg Video, PNG, Thumbnail, ZIP, h.264&lt;/p&gt;</media:description>
+      <guid>https://archive.org/details/DRIVEINSHOWCREATUREHAUNTEDSEALITTLESHOP</guid>
+      <media:category>movies/SciFi_Horror</media:category>
+      <media:thumbnail url="https://archive.org/download/DRIVEINSHOWCREATUREHAUNTEDSEALITTLESHOP/format=Thumbnail" />
+      <media:content url="https://archive.org/download/DRIVEINSHOWCREATUREHAUNTEDSEALITTLESHOP/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:keywords>horror, comedy, Corman, drive-in, dvd</media:keywords>
+    </item>
+    <item>
+      <media:title>BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: NIGHTMARE CASTLE and CEMETARY OF THE LIVING DEAD</media:title>
+      <media:description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=DRIVEINSHOWNIGHTMARECASTLECEMETARYLIVINGDEAD_20170430&amp;mediatype=movies&amp;collection=SciFi_Horror"/&gt;&lt;p&gt;COMPLETE DVD. Contains menu, opening previews, first feature, intermission, second feature, and closing. Here's how: Download the zipped folder, open it and extract the VIDEO_TS folder. Now you're ready to burn your dvd....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/SciFi_Horror.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, DVD Info, DVD Info Backup, Item Tile, MP3, MPEG2, Metadata, Ogg Video, PNG, Thumbnail, ZIP, h.264&lt;/p&gt;</media:description>
+      <guid>https://archive.org/details/DRIVEINSHOWNIGHTMARECASTLECEMETARYLIVINGDEAD_20170430</guid>
+      <media:category>movies/SciFi_Horror</media:category>
+      <media:thumbnail url="https://archive.org/download/DRIVEINSHOWNIGHTMARECASTLECEMETARYLIVINGDEAD_20170430/format=Thumbnail" />
+      <media:content url="https://archive.org/download/DRIVEINSHOWNIGHTMARECASTLECEMETARYLIVINGDEAD_20170430/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:keywords>horror, Barbara Steele, drive-in, dvd</media:keywords>
+    </item>
+    <item>
+      <media:title>BOOTLEGGER'S DRIVE-IN SATURDAY NIGHT: GIANT FROM THE UNKNOWN - FRANKENSTEIN'S DAUGHTER</media:title>
+      <media:description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=DRIVEINSHOWGIANTFROMUNKNOWNFRANKENSTIENSDAUGHTER&amp;mediatype=movies&amp;collection=SciFi_Horror"/&gt;&lt;p&gt;A COMPLETE DVD. Contains menu with poster art and drive-in style audio,, opening/previews, first feature, intermission, second feature, and closing. Download the zipped folder, open it and extract the VIDEO_TS folder and burn to disc....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/SciFi_Horror.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, DVD Info, DVD Info Backup, Item Tile, MP3, MPEG2, Metadata, Ogg Video, PNG, Thumbnail, ZIP, h.264&lt;/p&gt;</media:description>
+      <guid>https://archive.org/details/DRIVEINSHOWGIANTFROMUNKNOWNFRANKENSTIENSDAUGHTER</guid>
+      <media:category>movies/SciFi_Horror</media:category>
+      <media:thumbnail url="https://archive.org/download/DRIVEINSHOWGIANTFROMUNKNOWNFRANKENSTIENSDAUGHTER/format=Thumbnail" />
+      <media:content url="https://archive.org/download/DRIVEINSHOWGIANTFROMUNKNOWNFRANKENSTIENSDAUGHTER/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:keywords>horror, drive-in, feature films</media:keywords>
+    </item>
+    <item>
+      <media:title>Monstroid</media:title>
+      <media:description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=Monstroid&amp;mediatype=movies&amp;collection=SciFi_Horror"/&gt;&lt;p&gt;A giant lake monster, after lying dormant for years, reawakens and starts killing people in a small Colombian town. You can find out more about this movie on its IMDB page ..&lt;/p&gt;&lt;p&gt;This item belongs to: movies/SciFi_Horror.&lt;/p&gt;&lt;p&gt;This item has files of the following types: ASR, Archive BitTorrent, Item Tile, MP3, MPEG2, Metadata, Ogg Video, PNG, SubRip, Thumbnail, h.264&lt;/p&gt;</media:description>
+      <guid>https://archive.org/details/Monstroid</guid>
+      <media:category>movies/SciFi_Horror</media:category>
+      <media:thumbnail url="https://archive.org/download/Monstroid/format=Thumbnail" />
+      <media:content url="https://archive.org/download/Monstroid/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:keywords>giant monster, John Carradine, lake monster</media:keywords>
+    </item>
+    <item>
+      <media:title>Curse Of Bigfoot</media:title>
+      <media:description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=CurseOfBigfoot_MPEG&amp;mediatype=movies&amp;collection=SciFi_Horror"/&gt;&lt;p&gt;Originally the movie Teenagers Battle the Thing (1958), this 1975 version is colorized and features additional footage. Generally about a group of students who go on an archaeological dig and uncover a monster....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/SciFi_Horror.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Closed Caption Text, Item Tile, MPEG2, Metadata, Ogg Video, Thumbnail, h.264&lt;/p&gt;</media:description>
+      <guid>https://archive.org/details/CurseOfBigfoot_MPEG</guid>
+      <media:category>movies/SciFi_Horror</media:category>
+      <media:thumbnail url="https://archive.org/download/CurseOfBigfoot_MPEG/format=Thumbnail" />
+      <media:content url="https://archive.org/download/CurseOfBigfoot_MPEG/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:keywords>bigfoot, cryptozoology, guy in a monster suit, Dave Flocker, James T. Flocker</media:keywords>
+    </item>
+    <item>
+      <media:title>Keep My Grave Open</media:title>
+      <media:description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=KeepMyGraveOpen_1976&amp;mediatype=movies&amp;collection=SciFi_Horror"/&gt;&lt;p&gt;Leslie is slowly losing her mind as she has to keep cleaning up after Kevin's murders . . . or is something even more sinister at play? Find out more about this film on its IMDB page.&lt;/p&gt;&lt;p&gt;This item belongs to: movies/SciFi_Horror.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Closed Caption Text, MPEG2, Metadata, Ogg Video, Thumbnail, h.264&lt;/p&gt;</media:description>
+      <guid>https://archive.org/details/KeepMyGraveOpen_1976</guid>
+      <media:category>movies/SciFi_Horror</media:category>
+      <media:thumbnail url="https://archive.org/download/KeepMyGraveOpen_1976/format=Thumbnail" />
+      <media:content url="https://archive.org/download/KeepMyGraveOpen_1976/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:keywords>slasher, serial killer, psychological thriller, Stephen Tobolowsky, Camilla Carr, S.F. Brownrigg</media:keywords>
+    </item>
+	</channel>
+</rss>
