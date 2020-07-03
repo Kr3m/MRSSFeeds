@@ -21,7 +21,7 @@
       <!-- <pubDate>Sun, 03 Sep 2017 03:07:45 GMT</pubDate> -->
       <!-- <creativeCommons:license>http://creativecommons.org/publicdomain/mark/1.0/</creativeCommons:license> -->
       <media:category>movies/SciFi_Horror</media:category>
-      <media:thumbnail url="https://archive.org/download/ATOMAGESPIDERISLAND/format=Thumbnail" />
+      <media:thumbnail url="https://raw.githubusercontent.com/Kr3m/MRSSFeeds/master/images/atom-age-vampire-spider-island.jpg" />
       <media:content url="https://archive.org/download/ATOMAGESPIDERISLAND/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" duration="446"></media:content>
       <!-- <enclosure url="https://archive.org/download/ATOMAGESPIDERISLAND/format=h.264" type="video/h264" length="111111"/> -->
       <media:keywords>horror, scifi, drive-in, DVD, feature films</media:keywords>
