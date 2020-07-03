@@ -31,7 +31,7 @@
       <media:description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=WARSATELLITESVOYAGEPREHISTORICPLANET&amp;mediatype=movies&amp;collection=SciFi_Horror"/&gt;&lt;p&gt;A COMPLETE DVD. Features a custom menu with poster art from one of the movies overlayed with drive-in style audio.  Making your DVD is real easy: Download the zipped folder, open it, and extract the VIDEO_TS folder  and burn to disc, that's the easiest way....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/SciFi_Horror.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, DVD Info, DVD Info Backup, Item Tile, MP3, MPEG2, Metadata, Ogg Video, PNG, Thumbnail, ZIP, h.264&lt;/p&gt;</media:description>
       <guid>https://archive.org/details/WARSATELLITESVOYAGEPREHISTORICPLANET</guid>
       <media:category>movies/SciFi_Horror</media:category>
-      <media:thumbnail url="https://archive.org/download/WARSATELLITESVOYAGEPREHISTORICPLANET/format=Thumbnail" />
+      <media:thumbnail url="https://raw.githubusercontent.com/Kr3m/MRSSFeeds/master/images/war-of-the-sats-voyage-to-prehistoric-planet.jpg" />
       <media:content url="https://archive.org/download/WARSATELLITESVOYAGEPREHISTORICPLANET/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
       <media:keywords>sci-fi, Corman, drive-in, DVD, feature films</media:keywords>
     </item>
