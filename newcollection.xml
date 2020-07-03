@@ -131,7 +131,7 @@
       <guid>https://archive.org/details/BEASTHAUNTEDCAVEBUCKETBLOOD</guid>
       <media:category>movies/SciFi_Horror</media:category>
       <media:thumbnail url="https://archive.org/download/BEASTHAUNTEDCAVEBUCKETBLOOD/format=Thumbnail" />
-      <!-- <media:content url="https://archive.org/download/BEASTHAUNTEDCAVEBUCKETBLOOD/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" /> -->
+      <media:content url="https://archive.org/download/BEASTHAUNTEDCAVEBUCKETBLOOD/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
       <media:keywords>horror, Corman, drive-in, feature films</media:keywords>
     </item>
     <item>
