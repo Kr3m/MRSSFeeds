@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <!-- <link>https://archive.org/details/SciFi_Horror</link> -->
@@ -17,7 +17,7 @@
       <media:description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=ATOMAGESPIDERISLAND&amp;mediatype=movies&amp;collection=SciFi_Horror"/&gt;&lt;p&gt;A COMPLETE DVD. Features a custom menu with poster art from one of the movies overlayed with drive-in style audio. Burning the DVD is easy: Download the zipped folder. Copy the VIDEO_TS FOLDER. Grab a blank DVD and burn the VIDEO TS folder onto it, that's the easiest way....&lt;/p&gt;&lt;p&gt;This item belongs to: movies/SciFi_Horror.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, DVD Info, DVD Info Backup, Item Tile, MP3, MPEG2, Metadata, Ogg Video, PNG, Thumbnail, ZIP, h.264&lt;/p&gt;</media:description>
       <!-- <link>https://archive.org/details/ATOMAGESPIDERISLAND</link> -->
       <guid>https://archive.org/details/ATOMAGESPIDERISLAND</guid>
-	  <pubDate>2017-09-02T23:07:45-04:00</pubDate>
+      <pubDate>2017-09-02T23:07:45-04:00</pubDate>
       <!-- <pubDate>Sun, 03 Sep 2017 03:07:45 GMT</pubDate> -->
       <!-- <creativeCommons:license>http://creativecommons.org/publicdomain/mark/1.0/</creativeCommons:license> -->
       <media:category>movies/SciFi_Horror</media:category>
@@ -32,7 +32,7 @@
       <guid>https://archive.org/details/WARSATELLITESVOYAGEPREHISTORICPLANET</guid>
       <media:category>movies/SciFi_Horror</media:category>
       <media:thumbnail url="https://raw.githubusercontent.com/Kr3m/MRSSFeeds/master/images/war-of-the-sats-voyage-to-prehistoric-planet.jpg" />
-      <media:content url="https://archive.org/download/WARSATELLITESVOYAGEPREHISTORICPLANET/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:content url="https://archive.org/download/WARSATELLITESVOYAGEPREHISTORICPLANET/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" duration="551" />
       <media:keywords>sci-fi, Corman, drive-in, DVD, feature films</media:keywords>
     </item>
     <item>
@@ -41,7 +41,7 @@
       <guid>https://archive.org/details/WEREWOLFWASHINGTONGRAVEVAMPIRE</guid>
       <media:category>movies/SciFi_Horror</media:category>
       <media:thumbnail url="https://archive.org/download/WEREWOLFWASHINGTONGRAVEVAMPIRE/format=Thumbnail" />
-      <media:content url="https://archive.org/download/WEREWOLFWASHINGTONGRAVEVAMPIRE/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:content url="https://archive.org/download/WEREWOLFWASHINGTONGRAVEVAMPIRE/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" duration="749" />
       <media:keywords>horror, werewolf, vampire, drive-in, DVD, feature films</media:keywords>
     </item>
     <item>
@@ -50,7 +50,7 @@
       <guid>https://archive.org/details/WASPWOMANLASTWOMANEARTH</guid>
       <media:category>movies/SciFi_Horror</media:category>
       <media:thumbnail url="https://archive.org/download/WASPWOMANLASTWOMANEARTH/format=Thumbnail" />
-      <media:content url="https://archive.org/download/WASPWOMANLASTWOMANEARTH/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:content url="https://archive.org/download/WASPWOMANLASTWOMANEARTH/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" duration="547" />
       <media:keywords>horror, scifi, Corman, drive-in, DVD, feature films</media:keywords>
     </item>
     <item>
@@ -59,7 +59,7 @@
       <guid>https://archive.org/details/TERRORDEMENTIA13</guid>
       <media:category>movies/SciFi_Horror</media:category>
       <media:thumbnail url="https://archive.org/download/TERRORDEMENTIA13/format=Thumbnail" />
-      <media:content url="https://archive.org/download/TERRORDEMENTIA13/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:content url="https://archive.org/download/TERRORDEMENTIA13/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" duration="621" />
       <media:keywords>HORROR, CORMAN, DRIVE-IN, FEATURE FILMS, Corman, drive-in, feature films</media:keywords>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <guid>https://archive.org/details/TEENAGEZOMBIESSCREAMINGSKULL</guid>
       <media:category>movies/SciFi_Horror</media:category>
       <media:thumbnail url="https://archive.org/download/TEENAGEZOMBIESSCREAMINGSKULL/format=Thumbnail" />
-      <media:content url="https://archive.org/download/TEENAGEZOMBIESSCREAMINGSKULL/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:content url="https://archive.org/download/TEENAGEZOMBIESSCREAMINGSKULL/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" duration="655" />
       <media:keywords>horror, drive-in, feature films</media:keywords>
     </item>
     <item>
@@ -77,7 +77,7 @@
       <guid>https://archive.org/details/SPIDERBABYBEACHGIRLSMONSTER</guid>
       <media:category>movies/SciFi_Horror</media:category>
       <media:thumbnail url="https://archive.org/download/SPIDERBABYBEACHGIRLSMONSTER/format=Thumbnail" />
-      <media:content url="https://archive.org/download/SPIDERBABYBEACHGIRLSMONSTER/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:content url="https://archive.org/download/SPIDERBABYBEACHGIRLSMONSTER/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" duration="338" />
       <media:keywords>horror, drive-in, feature films</media:keywords>
     </item>
     <item>
@@ -86,7 +86,7 @@
       <guid>https://archive.org/details/SNOWCREATUREPHANTOMPLANET</guid>
       <media:category>movies/SciFi_Horror</media:category>
       <media:thumbnail url="https://archive.org/download/SNOWCREATUREPHANTOMPLANET/format=Thumbnail" />
-      <media:content url="https://archive.org/download/SNOWCREATUREPHANTOMPLANET/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:content url="https://archive.org/download/SNOWCREATUREPHANTOMPLANET/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" duration="446" />
       <media:keywords>sci-fi, horror, drive-in, feature films</media:keywords>
     </item>
     <item>
@@ -95,7 +95,7 @@
       <guid>https://archive.org/details/MESATRANSPARENMAN</guid>
       <media:category>movies/SciFi_Horror</media:category>
       <media:thumbnail url="https://archive.org/download/MESATRANSPARENMAN/format=Thumbnail" />
-      <media:content url="https://archive.org/download/MESATRANSPARENMAN/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:content url="https://archive.org/download/MESATRANSPARENMAN/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" duration="551" />
       <media:keywords>horror, sci-fi, drive-in, feature films</media:keywords>
     </item>
     <item>
@@ -104,7 +104,7 @@
       <guid>https://archive.org/details/BLOODBEASTGIANTLEECHES</guid>
       <media:category>movies/SciFi_Horror</media:category>
       <media:thumbnail url="https://archive.org/download/BLOODBEASTGIANTLEECHES/format=Thumbnail" />
-      <media:content url="https://archive.org/download/BLOODBEASTGIANTLEECHES/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:content url="https://archive.org/download/BLOODBEASTGIANTLEECHES/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" duration="610" />
       <media:keywords>horror, sci-fi, Corman, drive-in, feature films</media:keywords>
     </item>
     <item>
@@ -113,7 +113,7 @@
       <guid>https://archive.org/details/MANOSBLOODYPITHORROR</guid>
       <media:category>movies/SciFi_Horror</media:category>
       <media:thumbnail url="https://archive.org/download/MANOSBLOODYPITHORROR/format=Thumbnail" />
-      <media:content url="https://archive.org/download/MANOSBLOODYPITHORROR/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:content url="https://archive.org/download/MANOSBLOODYPITHORROR/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" duration="610" />
       <media:keywords>horror, drive-in, feature films</media:keywords>
     </item>
     <item>
@@ -122,7 +122,7 @@
       <guid>https://archive.org/details/BLOODLUSCARNIVALSOULS</guid>
       <media:category>movies/SciFi_Horror</media:category>
       <media:thumbnail url="https://archive.org/download/BLOODLUSCARNIVALSOULS/format=Thumbnail" />
-      <media:content url="https://archive.org/download/BLOODLUSCARNIVALSOULS/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:content url="https://archive.org/download/BLOODLUSCARNIVALSOULS/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" duration="610" />
       <media:keywords>horror, drive-in, feature films</media:keywords>
     </item>
     <item>
@@ -131,7 +131,7 @@
       <guid>https://archive.org/details/BEASTHAUNTEDCAVEBUCKETBLOOD</guid>
       <media:category>movies/SciFi_Horror</media:category>
       <media:thumbnail url="https://archive.org/download/BEASTHAUNTEDCAVEBUCKETBLOOD/format=Thumbnail" />
-      <media:content url="https://archive.org/download/BEASTHAUNTEDCAVEBUCKETBLOOD/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:content url="https://archive.org/download/BEASTHAUNTEDCAVEBUCKETBLOOD/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" duration="382" />
       <media:keywords>horror, Corman, drive-in, feature films</media:keywords>
     </item>
     <item>
@@ -140,7 +140,7 @@
       <guid>https://archive.org/details/BATTLESUNVOYAGEPREHISTORICWOMEN</guid>
       <media:category>movies/SciFi_Horror</media:category>
       <media:thumbnail url="https://archive.org/download/BATTLESUNVOYAGEPREHISTORICWOMEN/format=Thumbnail" />
-      <media:content url="https://archive.org/download/BATTLESUNVOYAGEPREHISTORICWOMEN/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:content url="https://archive.org/download/BATTLESUNVOYAGEPREHISTORICWOMEN/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" duration="324" />
       <media:keywords>sci-fi, drive-in, Russian, Corman, feature films</media:keywords>
     </item>
     <item>
@@ -149,7 +149,7 @@
       <guid>https://archive.org/details/DRIVEINSHOWCREATUREHAUNTEDSEALITTLESHOP</guid>
       <media:category>movies/SciFi_Horror</media:category>
       <media:thumbnail url="https://archive.org/download/DRIVEINSHOWCREATUREHAUNTEDSEALITTLESHOP/format=Thumbnail" />
-      <media:content url="https://archive.org/download/DRIVEINSHOWCREATUREHAUNTEDSEALITTLESHOP/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:content url="https://archive.org/download/DRIVEINSHOWCREATUREHAUNTEDSEALITTLESHOP/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" duration="689" />
       <media:keywords>horror, comedy, Corman, drive-in, dvd</media:keywords>
     </item>
     <item>
@@ -158,7 +158,7 @@
       <guid>https://archive.org/details/DRIVEINSHOWNIGHTMARECASTLECEMETARYLIVINGDEAD_20170430</guid>
       <media:category>movies/SciFi_Horror</media:category>
       <media:thumbnail url="https://archive.org/download/DRIVEINSHOWNIGHTMARECASTLECEMETARYLIVINGDEAD_20170430/format=Thumbnail" />
-      <media:content url="https://archive.org/download/DRIVEINSHOWNIGHTMARECASTLECEMETARYLIVINGDEAD_20170430/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:content url="https://archive.org/download/DRIVEINSHOWNIGHTMARECASTLECEMETARYLIVINGDEAD_20170430/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" duration="324" />
       <media:keywords>horror, Barbara Steele, drive-in, dvd</media:keywords>
     </item>
     <item>
@@ -167,7 +167,7 @@
       <guid>https://archive.org/details/DRIVEINSHOWGIANTFROMUNKNOWNFRANKENSTIENSDAUGHTER</guid>
       <media:category>movies/SciFi_Horror</media:category>
       <media:thumbnail url="https://archive.org/download/DRIVEINSHOWGIANTFROMUNKNOWNFRANKENSTIENSDAUGHTER/format=Thumbnail" />
-      <media:content url="https://archive.org/download/DRIVEINSHOWGIANTFROMUNKNOWNFRANKENSTIENSDAUGHTER/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:content url="https://archive.org/download/DRIVEINSHOWGIANTFROMUNKNOWNFRANKENSTIENSDAUGHTER/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" duration="382" />
       <media:keywords>horror, drive-in, feature films</media:keywords>
     </item>
     <item>
@@ -176,7 +176,7 @@
       <guid>https://archive.org/details/Monstroid</guid>
       <media:category>movies/SciFi_Horror</media:category>
       <media:thumbnail url="https://archive.org/download/Monstroid/format=Thumbnail" />
-      <media:content url="https://archive.org/download/Monstroid/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:content url="https://archive.org/download/Monstroid/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" duration="4867" />
       <media:keywords>giant monster, John Carradine, lake monster</media:keywords>
     </item>
     <item>
@@ -185,7 +185,7 @@
       <guid>https://archive.org/details/CurseOfBigfoot_MPEG</guid>
       <media:category>movies/SciFi_Horror</media:category>
       <media:thumbnail url="https://archive.org/download/CurseOfBigfoot_MPEG/format=Thumbnail" />
-      <media:content url="https://archive.org/download/CurseOfBigfoot_MPEG/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:content url="https://archive.org/download/CurseOfBigfoot_MPEG/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" duration="5292" />
       <media:keywords>bigfoot, cryptozoology, guy in a monster suit, Dave Flocker, James T. Flocker</media:keywords>
     </item>
     <item>
@@ -194,8 +194,8 @@
       <guid>https://archive.org/details/KeepMyGraveOpen_1976</guid>
       <media:category>movies/SciFi_Horror</media:category>
       <media:thumbnail url="https://archive.org/download/KeepMyGraveOpen_1976/format=Thumbnail" />
-      <media:content url="https://archive.org/download/KeepMyGraveOpen_1976/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" />
+      <media:content url="https://archive.org/download/KeepMyGraveOpen_1976/format=h.264" type="video/h264" medium="video" expression="full" isDefault="true" bitrate="700" duration="4712" />
       <media:keywords>slasher, serial killer, psychological thriller, Stephen Tobolowsky, Camilla Carr, S.F. Brownrigg</media:keywords>
     </item>
-	</channel>
+  </channel>
 </rss>
